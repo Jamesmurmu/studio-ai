@@ -1,0 +1,11 @@
+ { "name": "Studio AI - 4K AI Generator", 
+ "short_name": "Studio AI", 
+ "description": "Free 4K AI Image and 1080p Video Generator App", 
+ "start_url": "/", 
+ "display": "standalone", 
+ "background_color": "#060911", 
+ "theme_color": "#8b5cf6", 
+ "orientation": "portrait-primary", 
+ "icons": [ { "src": "https://cdn-icons-png.flaticon.com/512/8637/8637106.png", "sizes": "192x192", "type": "image/png" }, 
+ { "src": "https://cdn-icons-png.flaticon.com/512/8637/8637106.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" } ] 
+}
